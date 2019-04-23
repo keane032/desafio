@@ -1,6 +1,13 @@
 # desafio
 
 > A Vue.js project
+## Descrição
+
+1-Realize chamadas em uma API REST para extrair um conjunto de números da base de
+dados.
+
+2-Ordena os numeros e em seguida os mostra na tela
+
 
 ## Build Setup
 
